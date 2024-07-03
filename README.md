@@ -1,24 +1,24 @@
-# <span style="color: #1E90FF;">Hotel Booking Cancellations Data Analysis</span>
+# Hotel Booking Cancellations Data Analysis
 
 This project analyzes hotel booking cancellations data using Excel. It provides insights into the patterns and trends of bookings and cancellations across different types of hotels, guest categories, room types, and time periods.
 
-## <span style="color: #32CD32;">Project Overview</span>
+## Project Overview
 
 The analysis includes the following key visualizations:
 
-- **<span style="color: #FFD700;">Total Bookings</span>**: Displays the total number of bookings for City Hotels and Resort Hotels.
-- **<span style="color: #FF6347;">Total Cancellations</span>**: Shows the total number of cancellations for both types of hotels.
-- **<span style="color: #8A2BE2;">Bookings by Category</span>**: Breaks down bookings and cancellations by guest type (Couples, Family, Singles).
-- **<span style="color: #20B2AA;">Bookings by Assigned Room Types</span>**: Compares total rooms to canceled bookings for desired and undesired room types.
-- **<span style="color: #FF4500;">Total Bookings and Cancellations by Month</span>**: Displays the trend of total guests and canceled bookings over the months.
-- **<span style="color: #DA70D6;">Yearly Data</span>**: Provides a filter to view data for the years 2015, 2016, and 2017.
+- **Total Bookings**: Displays the total number of bookings for City Hotels and Resort Hotels.
+- **Total Cancellations**: Shows the total number of cancellations for both types of hotels.
+- **Bookings by Category**: Breaks down bookings and cancellations by guest type (Couples, Family, Singles).
+- **Bookings by Assigned Room Types**: Compares total rooms to canceled bookings for desired and undesired room types.
+- **Total Bookings and Cancellations by Month**: Displays the trend of total guests and canceled bookings over the months.
+- **Yearly Data**: Provides a filter to view data for the years 2015, 2016, and 2017.
 
-## <span style="color: #1E90FF;">File Structure</span>
+## File Structure
 
-- `<span style="color: #4682B4;">Hotel Booking Cancellation Excel.xlsx</span>`: The Excel file containing the data analysis and visualizations.
-- `<span style="color: #4682B4;">Screenshot.jpeg</span>`: An image file showing a snapshot of the dashboard.
+- `Hotel Booking Cancellation Excel.xlsx`: The Excel file containing the data analysis and visualizations.
+- `Screenshot.jpeg`: An image file showing a snapshot of the dashboard.
 
-## <span style="color: #32CD32;">How to Use</span>
+## How to Use
 
 1. **Clone the Repository**:
 
@@ -29,38 +29,38 @@ The analysis includes the following key visualizations:
 
 2. **Open the Excel File**:
 
-    Open the `<span style="color: #4682B4;">Hotel Booking Cancellation Excel.xlsx</span>` file using Microsoft Excel or any compatible spreadsheet software.
+    Open the `Hotel Booking Cancellation Excel.xlsx` file using Microsoft Excel or any compatible spreadsheet software.
 
-## <span style="color: #FFD700;">Explore the Dashboard</span>
+## Explore the Dashboard
 
 - The dashboard provides interactive visualizations and filters to explore the data.
 - Use the year filter to view data for specific years (2015, 2016, 2017).
 
-## <span style="color: #FF6347;">Key Insights</span>
+## Key Insights
 
-- **<span style="color: #FFD700;">Total Bookings and Cancellations</span>**:
+- **Total Bookings and Cancellations**:
   - The total number of bookings and cancellations for both City Hotels and Resort Hotels.
-- **<span style="color: #8A2BE2;">Guest Categories</span>**:
+- **Guest Categories**:
   - Analysis of bookings and cancellations based on different guest types.
-- **<span style="color: #20B2AA;">Room Types</span>**:
+- **Room Types**:
   - Comparison of bookings and cancellations based on room preferences (desired vs. undesired).
-- **<span style="color: #FF4500;">Monthly Trends</span>**:
+- **Monthly Trends**:
   - Trends in bookings and cancellations over the months.
 
-## <span style="color: #DA70D6;">Future Enhancements</span>
+## Future Enhancements
 
-- **<span style="color: #FFD700;">Additional Visualizations</span>**: Adding more charts and graphs to provide deeper insights.
-- **<span style="color: #FF6347;">Advanced Analytics</span>**: Using more advanced statistical methods to analyze the data.
-- **<span style="color: #8A2BE2;">Automation</span>**: Automating data updates and report generation.
+- **Additional Visualizations**: Adding more charts and graphs to provide deeper insights.
+- **Advanced Analytics**: Using more advanced statistical methods to analyze the data.
+- **Automation**: Automating data updates and report generation.
 
-## <span style="color: #32CD32;">Contributing</span>
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to create a pull request or open an issue.
 
-## <span style="color: #1E90FF;">License</span>
+## License
 
 This project is licensed under the MIT License.
 
-## <span style="color: #FFD700;">Contact</span>
+## Contact
 
-For any questions or inquiries, please contact <span style="color: #4682B4;">[i.m.bhabani.00@gmail.com]</span>.
+For any questions or inquiries, please contact [i.m.bhabani.00@gmail.com].
