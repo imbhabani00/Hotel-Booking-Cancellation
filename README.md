@@ -23,7 +23,7 @@ The analysis includes the following key visualizations:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/bhabani00/hotel-booking-cancellations.git
+    git clone https://github.com/imbhabani00/Hotel-Booking-Cancellation.git
     cd hotel-booking-cancellations
     ```
 
