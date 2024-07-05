@@ -64,3 +64,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or inquiries, please contact [i.m.bhabani.00@gmail.com].
+
+![Screenshot](https://github.com/imbhabani00/Hotel-Booking-Cancellation/assets/111756939/8ed338ac-d4c6-40ff-b995-0671067bddff)
+
