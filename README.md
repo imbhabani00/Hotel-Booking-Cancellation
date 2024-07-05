@@ -1,5 +1,7 @@
 # Hotel Booking Cancellations Data Analysis
 
+![Screenshot](https://github.com/imbhabani00/Hotel-Booking-Cancellation/assets/111756939/8ed338ac-d4c6-40ff-b995-0671067bddff)
+
 This project analyzes hotel booking cancellations data using Excel. It provides insights into the patterns and trends of bookings and cancellations across different types of hotels, guest categories, room types, and time periods.
 
 ## Project Overview
@@ -64,6 +66,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or inquiries, please contact [i.m.bhabani.00@gmail.com].
-
-![Screenshot](https://github.com/imbhabani00/Hotel-Booking-Cancellation/assets/111756939/8ed338ac-d4c6-40ff-b995-0671067bddff)
 
